@@ -1,0 +1,45 @@
+# Road Safety Assistant — Python dependencies
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# LLM provider (install at least one):
+#   pip install google-genai          # Gemini (recommended)
+#   pip install google-generativeai   # Gemini (legacy SDK, also supported)
+#   pip install openai                # OpenAI
+#
+# DAG visualization in the Streamlit app also requires the Graphviz system
+# package (graphviz Python package is listed below but the system binary must
+# be installed separately):
+#   macOS:           brew install graphviz
+#   Ubuntu/Debian:   sudo apt-get install graphviz
+
+# Web framework
+streamlit>=1.35.0
+
+# Database
+psycopg2-binary>=2.9.9
+
+# Spatial / data
+geopandas>=0.14.0
+shapely>=2.0.0
+pandas>=2.0.0
+
+# Map rendering
+folium>=0.16.0
+branca>=0.7.0
+
+# Templating (used by folium/branca)
+jinja2>=3.1.0
+
+# HTTP (geocoding via Nominatim)
+requests>=2.31.0
+
+# Plotting
+matplotlib>=3.8.0
+
+# DAG visualization (optional — requires graphviz system package)
+graphviz>=0.20.0
+
+# Benchmark output
+openpyxl>=3.1.0
