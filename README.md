@@ -6,7 +6,7 @@ The system allows users to query an authoritative spatial database using plain E
 
 This repository accompanies the paper:
 
-> **Broadening Access to Transportation Safety Evidence with Generative AI: A Schema-Grounded Framework for Natural Language Querying**
+> **Broadening Access to Transportation Safety Data with Generative AI: A Schema-Grounded Framework for Natural Language Queries**
 > Mahdi Azhdari, Eric J. Gonzales
 > Department of Civil and Environmental Engineering, University of Massachusetts Amherst
 > *Transportation Research Part A: Policy and Practice*
