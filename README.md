@@ -9,7 +9,6 @@ This repository accompanies the paper:
 > **Broadening Access to Transportation Safety Data with Generative AI: A Schema-Grounded Framework for Natural Language Queries**
 > Mahdi Azhdari, Eric J. Gonzales
 > Department of Civil and Environmental Engineering, University of Massachusetts Amherst
-> *Transportation Research Part A: Policy and Practice*
 
 ```bash
 git clone https://github.com/Mahdi-Azhdari/road-safety-nlq.git
