@@ -214,3 +214,6 @@ Results reported in the paper using GPT-4o on the 80-query benchmark:
 ## License
 
 This code is released under the MIT License. See [LICENSE](LICENSE) for the full text.
+
+A preprint version of this paper is available on arXiv: https://arxiv.org/abs/2605.21712
+
